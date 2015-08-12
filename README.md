@@ -2,7 +2,7 @@ sublime-text-rus
 ================
 
 ##Preferences.hukishd.sublime-settings
-настройки с русским описанием. Найдено на ресурсе по адресу http://sublimetext.ru/documentation/preferences/list 
+Настройки с русским описанием. Найдено на ресурсе по адресу http://sublimetext.ru/documentation/preferences/list 
    
 Особенность - все комментарии (строки с //) теряются после сохранения или изменения каких-либо настроек через меню. Логично, поскольку JSON не может содержать комментарии. 
    
@@ -24,4 +24,4 @@ sublime-text-rus
 + remember_full_screen: [true|false]
 
 ##MyHotkeys.sublime-keymap
-настройки хоткеев автозамены символов табуляции на символы пробелов (обычно 4, указано в .sublime-settings в параметре tab_size) и наоборот, 4 пробела на табуляцию.
+Настройки хоткеев автозамены символов табуляции на символы пробелов (обычно 4, указано в .sublime-settings в параметре tab_size) и наоборот - 4 пробела на табуляцию.
