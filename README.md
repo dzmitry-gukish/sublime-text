@@ -22,3 +22,5 @@ sublime-text-rus
 
 3065
 + remember_full_screen: [true|false]
+
+2. MyHotkeys.sublime-keymap - настройки хоткеев автозамены символов табуляции на символы пробелов (обычно 4, указано в .sublime-settings в параметре tab_size) и наоборот, 4 пробела на табуляцию.
