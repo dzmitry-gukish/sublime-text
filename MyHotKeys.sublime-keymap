@@ -1,0 +1,6 @@
+[
+    // Аналогично меню View / Identation / Convert Identation to Tabs
+    { "keys": ["ctrl+shift+x"], "command": "unexpand_tabs", "args": { "set_translate_tabs": false } },
+    // Аналогично меню View / Identation / Convert Identation to Space
+    { "keys": ["ctrl+shift+y"], "command": "expand_tabs", "args": { "set_translate_tabs": true } }
+]
