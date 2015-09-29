@@ -10,3 +10,4 @@ https://packagecontrol.io/installation
 * CSS3
 * SublimeLint
 * Git
+* SublimeCodeIntel
