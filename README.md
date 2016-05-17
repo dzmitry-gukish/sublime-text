@@ -23,5 +23,19 @@ sublime-text-rus
 3065
 + remember_full_screen: [true|false]
 
+3080
++ spelling_selector - список переключателей проверки правописания
++ remember_open_files: [true|**false**] - изменено значение по умолчанию.
++ auto_complete_cycle: [true|**false**] - поведение списка автозамены. Если false - при нажатии кнопки "вверх" окно выбора автозамены исчезает, иначе переходит на последний элемент.
+
+3083
++ index_workers: [num] - number of threads used for file indexing. By default **0** - then equal the number of CPU cores. 
+
+3103
++ ничего в настройки
+
+3114
++ ничего в настройки
+
 ##MyHotkeys.sublime-keymap
 Настройки хоткеев автозамены символов табуляции на символы пробелов (обычно 4, указано в .sublime-settings в параметре tab_size) и наоборот - 4 пробела на табуляцию.
